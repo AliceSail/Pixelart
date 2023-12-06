@@ -1,0 +1,11 @@
+.pixel {
+  width: 30px;
+  height: 30px;
+  border: 1px solid #ccc;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.colored {
+  background-color: black;
+}
